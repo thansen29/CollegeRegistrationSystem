@@ -6,7 +6,7 @@ if ($_SESSION["loggedIn"] == false || $_SESSION["type"] != "admin") {
 }
 ?>
 <!DOCTYPE html>
-
+<!-- another test -->
 
 <html>
    <head>
