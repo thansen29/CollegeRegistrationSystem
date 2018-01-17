@@ -5,10 +5,10 @@ View the website at www.agru.co.nf
 
 Login Information
 =======================
-Administrator: username: oreilly@wasteland.com password: teenage
+Administrator: username: oreilly@wasteland.com - password: teenage
 
-Student: username: thansen@oldwestbury.edu password: password
+Student: username: thansen@oldwestbury.edu - password: password
 
-Faculty: username: guptan@oldwestbury.edu password: password
+Faculty: username: guptan@oldwestbury.edu - password: password
 
-researcher: username: brattonc@office.com password: CreedBratton
+researcher: username: brattonc@office.com - password: CreedBratton
