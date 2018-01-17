@@ -3,12 +3,12 @@ This project showcases HTML, CSS, Javascript, JQuery, AJAX, PHP, and MYSQL.
 
 View the website at www.agru.co.nf
 
-#Login Information
+Login Information
+=======================
+Administrator: username: oreilly@wasteland.com password: teenage
 
-###student: username: thansen@oldwestbury.edu password: password
+Student: username: thansen@oldwestbury.edu password: password
 
-###faculty: username: guptan@oldwestbury.edu password: password
-
-###administrator: username: oreilly@wasteland.com password: teenage
+Faculty: username: guptan@oldwestbury.edu password: password
 
 researcher: username: brattonc@office.com password: CreedBratton
